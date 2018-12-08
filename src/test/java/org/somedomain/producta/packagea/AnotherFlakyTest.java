@@ -1,3 +1,5 @@
+package org.somedomain.producta.packagea;
+
 import java.util.concurrent.ThreadLocalRandom;
 import org.junit.Test;
 import static org.junit.Assert.assertTrue;
